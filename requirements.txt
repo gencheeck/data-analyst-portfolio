@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+SQLAlchemy
+folium
+plotly
+requests
+openpyxl
